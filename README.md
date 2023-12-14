@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gulmehak! <br/><a href="https://github.com/GulmehakS">Hardware Technician</a>, <a href="https://www.linkedin.com/in/gulmehak-singh-72666a255/">IT enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Gulmehak! <br/><a href="https://github.com/GulmehakS"> IT Support Technician</a>, <a href="https://www.linkedin.com/in/gulmehak-singh-72666a255/">IT enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
